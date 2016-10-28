@@ -7,6 +7,7 @@ gem 'data_mapper'
 gem 'dm-postgres-adapter'
 gem 'rake'
 gem 'sinatra-flash'
+gem 'sinatra-partial'
 
 group :test do
   gem 'database_cleaner'
